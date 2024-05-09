@@ -1,7 +1,7 @@
 # Multithreading
 Submitted by: ***Pratyush Saxena*** 
 Roll No: ***102103302***
-Group: ***3CO112***
+Group: ***3CO11***
 ## Description
 Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x 1k and generate the result table and graph. 
 ## Methodology
